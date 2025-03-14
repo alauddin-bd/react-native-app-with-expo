@@ -29,9 +29,10 @@ export default function Index() {
         <Text
           style={{
             fontSize: 30,
-            fontWeight: "bold",
+            fontWeight:'bold',
             textAlign: "center",
             color: Colors.WHITE,
+            fontFamily: 'outfit-bold'
           }}
         >
           Welcome to Coaching Guru
@@ -42,6 +43,7 @@ export default function Index() {
             fontSize: 20,
             textAlign: "center",
             color: Colors.WHITE,
+            fontFamily: 'outfit'
           }}
         >
           Transfor your ideas into engaging educational content effectively with
